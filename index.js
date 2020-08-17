@@ -7,9 +7,3 @@ const videoSrc = document.getElementById('video-src')
 
 
 
-
-
-downloadBtn.addEventListener('click', e => {
-
-})
-
